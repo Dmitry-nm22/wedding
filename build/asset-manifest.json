@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f07939f.chunk.css",
+    "main.js": "/static/js/main.d82183b6.chunk.js",
+    "main.js.map": "/static/js/main.d82183b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c4cc3f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c4cc3f4.js.map",
+    "static/js/2.764de460.chunk.js": "/static/js/2.764de460.chunk.js",
+    "static/js/2.764de460.chunk.js.map": "/static/js/2.764de460.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.63d0ab7d8d6f6b2e0bd5ba106832bd54.js": "/precache-manifest.63d0ab7d8d6f6b2e0bd5ba106832bd54.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2f07939f.chunk.css.map": "/static/css/main.2f07939f.chunk.css.map",
+    "static/js/2.764de460.chunk.js.LICENSE.txt": "/static/js/2.764de460.chunk.js.LICENSE.txt",
+    "static/media/Mee.jpg": "/static/media/Mee.854bb362.jpg",
+    "static/media/abcd.mp4": "/static/media/abcd.5c169b2d.mp4",
+    "static/media/clip.jpg": "/static/media/clip.76d1d01f.jpg",
+    "static/media/czFlagIcon.png": "/static/media/czFlagIcon.79984b1b.png",
+    "static/media/interview.jpg": "/static/media/interview.91e54a40.jpg",
+    "static/media/ivent.jpg": "/static/media/ivent.e75a588c.jpg",
+    "static/media/marketing.jpg": "/static/media/marketing.f409ee51.jpg",
+    "static/media/newLogo2.png": "/static/media/newLogo2.f3ccb732.png",
+    "static/media/ruFlagIcon.png": "/static/media/ruFlagIcon.b36b3e38.png",
+    "static/media/service1.jpg": "/static/media/service1.1d23f388.jpg",
+    "static/media/usFlagIcon.png": "/static/media/usFlagIcon.6f382b2d.png",
+    "static/media/video.mp4": "/static/media/video.4a2ab647.mp4",
+    "static/media/wedding.jpg": "/static/media/wedding.f96a6c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4cc3f4.js",
+    "static/js/2.764de460.chunk.js",
+    "static/css/main.2f07939f.chunk.css",
+    "static/js/main.d82183b6.chunk.js"
+  ]
+}

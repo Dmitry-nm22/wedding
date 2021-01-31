@@ -1,0 +1,42 @@
+.wraper{
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 40px;
+    padding: 10px 12px;
+    border-radius: 3px;
+}
+.inner:nth-child(1):hover {
+     background-color: #5240f7;
+
+ }
+
+.inner:nth-child(1):hover a i {
+    color: white;
+}
+
+.inner:nth-child(2):hover {
+    background-color: #3a7eff;
+}
+
+.inner:nth-child(2):hover a i {
+    color: white;
+}
+
+.inner:nth-child(3):hover {
+    background-color: #5aff64;
+}
+
+.inner:nth-child(3):hover a i {
+    color: white;
+}
+
+.inner a i{
+    font-size: 20px;
+    color: #5a5a5a;
+}

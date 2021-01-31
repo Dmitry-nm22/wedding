@@ -1,0 +1,137 @@
+.wraper{
+    /*height: 100vh;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 150px 0px 0px;
+}
+
+.contactInfo{
+    margin: 0px 25px;
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    align-items: center;
+}
+.contactInfo input, .contactInfo textarea{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}
+.messageArea{
+    resize: none;
+    height: 100px;
+}
+.contactInfo button{
+    color: #000000;
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    background: none;
+    outline: none;
+    border: 1px solid #000000;
+    width: 230px;
+    height: 50px;
+    transition: 0.35s;
+}
+
+.contactInfo button:hover{
+    background: #56bdbd;
+    border: white;
+    color: white;
+    transition: 0.35s;
+    transform: translateX(10px);
+}
+.contactInfo input, textarea{
+    width: 100%;
+    outline: none;
+}
+.contact{
+    width: 50%;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutInner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.aboutInner i {
+    font-size: 20px;
+    color: #56bdbd;
+}
+.spone{
+    margin: 10px 0px;
+}
+.spone{
+    margin: 10px 0px;
+}
+
+.aone{
+    text-decoration: none;
+    color: black;
+    padding-left: 6px;
+}
+.atwo{
+    text-decoration: none;
+    color: black;
+}
+.aboutInnerTwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 40px ;
+}
+.aboutInnerTwo i{
+    font-size: 20px;
+    color: #56bdbd;
+    padding-right: 10px;
+}
+.aboutInnerTwo span{
+    margin: 10px 0px;
+}
+.title{
+    font-size: 15px;
+    line-height: 22px;
+    color: #333;
+}
+
+@media screen and (max-width: 860px) {
+    .wraper{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contactInfo{
+        width: 80%;
+    }
+    .contact{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact h4{
+        margin-top: 76px;
+    }
+    .title{
+        width: 80%;
+    }
+    .about{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .aboutInner{
+        width: 100%;
+    }
+}

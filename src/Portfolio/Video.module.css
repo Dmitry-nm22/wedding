@@ -1,0 +1,21 @@
+.wraper{
+    height: 288px;
+    width: 600px;
+    margin: 0px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 3px 6px 4px #888;
+}
+
+@media screen and (max-width: 860px) {
+    .wraper{
+        margin-bottom: 10px;
+        height: 300px;
+        width: 300px;
+    }
+}
+
+
+
+
